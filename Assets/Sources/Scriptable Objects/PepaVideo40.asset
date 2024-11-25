@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33f2bc2ed647c71458c99147b9abeef4, type: 3}
+  m_Name: PepaVideo40
+  m_EditorClassIdentifier: 
+  VideoTitle: "\u0421\u0432\u0438\u043D\u043A\u0430 \u041F\u0435\u043F\u043F\u0430:
+    40. \u041F\u0430\u043F\u0430 \u0440\u0435\u0448\u0438\u043B \u0441\u0442\u0430\u0442\u044C
+    \u0441\u0442\u0440\u043E\u0439\u043D\u044B\u043C"
+  VideoId: 2
+  VideoURLPath: https://storage.yandexcloud.net/viavr.global/CARTOONS/Peppa_Pig/Peppa_Pig_s01e40_Daddy_Gets_Fit.mp4
+  PreviewURLPath: https://storage.yandexcloud.net/viavr.global/assets/content_card/bfdebabe-a264-4b97-ae74-e6abb2bc5ce3/images/47631a5d39d3.jpg
+  MediaReference: {fileID: 11400000, guid: 83c082f554935f14abf49d9e109463af, type: 2}

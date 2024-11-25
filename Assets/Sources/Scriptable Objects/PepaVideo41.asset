@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33f2bc2ed647c71458c99147b9abeef4, type: 3}
+  m_Name: PepaVideo41
+  m_EditorClassIdentifier: 
+  VideoTitle: "\u0421\u0432\u0438\u043D\u043A\u0430 \u041F\u0435\u043F\u043F\u0430:
+    41. \u0421\u0443\u043F\u0435\u0440\u043C\u0430\u0440\u043A\u0435\u0442"
+  VideoId: 3
+  VideoURLPath: https://storage.yandexcloud.net/viavr.global/CARTOONS/Peppa_Pig/Peppa_Pig_s01e41_Shopping.mp4
+  PreviewURLPath: https://storage.yandexcloud.net/viavr.global/assets/content_card/a0a9a962-9510-40b0-bad6-897722e010a4/images/f6ab6c7ffc58.jpg
+  MediaReference: {fileID: 11400000, guid: 9cb2930293965944ba5da200f01fb974, type: 2}
